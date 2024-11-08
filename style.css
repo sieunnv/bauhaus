@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #E6DFD3;
+}
+
+.box01{
+    width: 100%;
+    height: 667px;
+}
+
+.box01_wrap{    
+    width: 997px;
+    height: 667px;
+    margin: 0 auto;
+    background-image: url(img/img01.png);
+    position: relative;
+}
+
+.tit01{
+    font-size: 65px;
+    text-align: center;
+    font-family: "Nanum Gothic", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: white;
+    position: absolute;
+    width: 997px;
+    top: 540px;
+}
+.tit02{
+    font-size: 32px;
+    text-align: center;        
+    font-family: "Nanum Gothic", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: white;
+    position: absolute;
+    width: 997px;
+    bottom: 4px;
+}
+.cont00{
+    width: 997px;
+    height: 576px;
+   margin: 0 auto;
+   background-image: url(img/k1.png);
+}
+.cont01{
+    width: 967px;
+    height: 723px;
+   margin: 0 auto;
+   background-image: url(img/k2.png);
+}
+.cont02{
+    width: 977px;
+    height: 3320px;
+   margin: 0 auto;
+   background-image: url(img/k3.png);
+}
